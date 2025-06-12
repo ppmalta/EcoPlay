@@ -7,5 +7,8 @@ Explore educação ambiental divertida para o fundamental: jogos interativos e r
 # 💫 Sobre: E gostaria de compartilhar o protótipo de média fidelidade que eu mesmo criei. É uma versão intermediária do nosso produto, com detalhes suficientes para testes e validações. Agradeço sua atenção!
 
 ![Interface do Usuário Final](https://github.com/ppmalta/EcoPlay/blob/main/Frame%209.png?raw=true)
-
+# Versão Web:
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/4peEndXhkgvY1e3iOzqZ4q/Prot%C3%B3tipo?node-id=0-1&t=5c8ISRK1TlGRfhxr-1)
+
+# Versão Mobile:
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/4peEndXhkgvY1e3iOzqZ4q/Ecoplay-Prot%C3%B3tipo?node-id=153-3&p=f&t=yismearqQg3D6OoT-1&scaling=scale-down&content-scaling=fixed&page-id=153%3A2&starting-point-node-id=153%3A3)
